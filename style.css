@@ -1,0 +1,23 @@
+body {
+  background: rgb(237, 241, 247);
+}
+
+.container {
+  width: 500px;
+  margin: 100px auto;
+}
+
+.container form {
+  display: flex;
+  flex-direction: column;
+  background: lightpink;
+  padding: 20px;
+}
+
+.container button {
+  margin-top: 20px;
+}
+
+.message form {
+  background: lightskyblue;
+}
